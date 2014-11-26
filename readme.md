@@ -19,3 +19,20 @@
 #
 -->
 
+#Usage
+
+	npm install valid-identifier
+
+	var validateIdentifier = require('valid-identifier');
+	validateIdentifier("$dollarSign"); // returns true
+	validateIdentifier("org.apache.cordova.myapp"); // true
+	
+	validateIdentifier("private.name"); // false, private is a reserved word
+	validateIdentifier("org.8bit"); // false, portion starts with a number
+	validateIdentifier("extra.dot."); // false
+
+
+
+#Running the tests
+
+	npm test
