@@ -7,9 +7,6 @@
     "type": "git",
     "url": "http://github.com/purplecabbage/valid-identifier"
   },
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "keywords": [
     "validate",
     "identifier",
@@ -18,11 +15,9 @@
   ],
   "scripts": {
     "test": "npm run jasmine",
-    "jshint": "node node_modules/jshint/bin/jshint src",
     "jasmine": "jasmine-node --captureExceptions --color tests/valid-identifier-spec.js"
   },
   "devDependencies": {
-    "jshint": "2.5.8",
     "jasmine-node": "1.14.5"
   },
   "author": "Jesse MacFadyen",
