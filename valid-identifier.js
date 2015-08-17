@@ -28,7 +28,8 @@ var reserved = [
     "stackalloc","static","string","struct","switch","this","throw","true",
     "try","typeof","uint","ulong","unchecked","unsafe","ushort","using",
     "virtual","void","volatile","while","assert","package","synchronized",
-    "boolean","implements","import"];
+    "boolean","implements","import","extends","final","instanceof","native",
+    "strictfp","super","throws","transient"];
 
 var regX = /([a-zA-Z_$][a-zA-Z\d_$]*\.)*[a-zA-Z_$][a-zA-Z\d_$]*/;
 
