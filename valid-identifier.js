@@ -18,7 +18,7 @@
 */
 
 var reserved = [
-    "abstract","as","base","bool ","break","byte","case","catch","char",
+    "abstract","as","base","bool","break","byte","case","catch","char",
     "checked","class","const","continue","decimal","default","delegate",
     "do","double","else","enum","event","explicit","extern","false","finally",
     "fixed","float","for","foreach","goto","if","implicit","in","int",
