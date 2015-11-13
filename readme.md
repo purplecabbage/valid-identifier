@@ -19,6 +19,8 @@
 #
 -->
 
+[![Build Status](https://travis-ci.org/purplecabbage/valid-identifier.svg?branch=master)](https://travis-ci.org/purplecabbage/valid-identifier)
+
 #Usage
 
 	npm install valid-identifier
