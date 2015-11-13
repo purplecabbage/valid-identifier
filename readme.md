@@ -19,7 +19,8 @@
 #
 -->
 
-[![Build Status](https://travis-ci.org/purplecabbage/valid-identifier.svg?branch=master)](https://travis-ci.org/purplecabbage/valid-identifier)
+[![Build Status](https://travis-ci.org/purplecabbage/valid-identifier.svg?branch=master)](https://travis-ci.org/purplecabbage/valid-identifier) 
+[![npm version](https://badge.fury.io/js/valid-identifier.svg)](https://badge.fury.io/js/valid-identifier)
 
 #Usage
 
